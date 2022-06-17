@@ -220,10 +220,10 @@ sudo nano /etc/default/metabase
 
 ```
 MB_DB_TYPE=mysql
-MB_DB_DBNAME=collegiumanalyti_metabase
+MB_DB_DBNAME=metabase_db
 MB_DB_PORT=3306
 MB_DB_USER=admin
-MB_DB_PASS=4bzHcvZMPZcfc2GKZp5FzbnhwLXM44qc
+MB_DB_PASS=password
 MB_DB_HOST=127.0.0.1
 
 JAVA_VERSION=jdk-11.0.15+10
